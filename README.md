@@ -6,9 +6,9 @@
 - Cat lover 🐾
 
 ## Some of my projects
-1. [PWA Extension Template](https://github.com/GabrielFNLima/pwa-extension-template) - PWA Studio extension template
-2. [PWA Studio Generator](https://github.com/GabrielFNLima/pwa-studio-generator) - CLI tool for generating React components and extensions for PWA Studio.
-3. [Magento 2 PixQRCode](https://github.com/GabrielFNLima/magento2-pixqrcode) -  Magento 2 module for generating Pix QR Code.
+1. [PWA Studio Generator](https://github.com/GabrielFNLima/vscode-pwa-studio-generator) - VS Code extension for generating React components and extensions for PWA Studio.
+2. [Magento 2 PixQRCode](https://github.com/GabrielFNLima/magento2-pixqrcode) -  Magento 2 module for generating Pix QR Code.
+3. [Payment Method for PWA Studio ](https://github.com/GabrielFNLima/pwastudio-magento2-pixqrcode) - Pix Qrcode payment method for PWA Studio (Venia).
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/devgfnl/)
